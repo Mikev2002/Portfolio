@@ -9,6 +9,6 @@ Figma link- https://www.figma.com/file/L6zSS2UtNcUolZdOdtmYaj/Midterm218-with-re
 
 ![Main Page Figma](docs/images/Mainpage.png)
 
-![Resume Page Figma](docs/images/Resumepage.png)
+![Resume Page Figma](docs/images/resumepage.png)
 
 ![Subscribe Button Page](docs/images/SubscribeButtonPage.png)
