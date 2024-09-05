@@ -1,4 +1,3 @@
-#Midterm 218
 
 #Host Site
 1. Host Site-https://mikevillagomez.github.io/Portfolio/
